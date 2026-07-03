@@ -1,0 +1,9 @@
+metric,value
+train_accuracy,0.94
+test_accuracy,0.96
+benign_precision,0.98
+benign_recall,0.93
+benign_f1,0.95
+malignant_precision,0.96
+malignant_recall,0.99
+malignant_f1,0.97
